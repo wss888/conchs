@@ -1,0 +1,21 @@
+{
+  "name": "conch-js",
+  "version": "1.0.0",
+  "description": "Conch JavaScript Library",
+  "main": "js/conch.vip.js",
+  "files": [
+    "js/**/*",
+    "css/**/*",
+    "fonts/**/*",
+    "img/**/*",
+    "layui/**/*",
+    "pwa/**/*"
+  ],
+  "keywords": [
+    "conch",
+    "javascript",
+    "library"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
